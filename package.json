@@ -18,8 +18,6 @@
   "author": "Hui Wang",
   "license": "ISC",
   "dependencies": {
-    "feedparser-promised": "^1.5.0",
-    "request": "^2.83.0",
-    "request-promise": "^4.2.2"
+    "feedparser-promised": "^1.5.0"
   }
 }

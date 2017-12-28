@@ -1,0 +1,25 @@
+{
+  "name": "hexo-blogroll",
+  "version": "0.0.1",
+  "description": "Dynamic blogroll",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huiwang/hexo-blogroll"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blogroll",
+    "hexo",
+    "plugin"
+  ],
+  "author": "Hui Wang",
+  "license": "ISC",
+  "dependencies": {
+    "feedparser-promised": "^1.5.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}

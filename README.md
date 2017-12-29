@@ -37,5 +37,8 @@ Create a hexo page and insert the `blogroll` tag as follows.
 ---
 title: Blogroll
 ---
+
+Latest artciles of my favorite blogs updated by [hexo-blogroll](https://github.com/huiwang/hexo-blogroll)
+
 {% blogroll 5 %}
 ```

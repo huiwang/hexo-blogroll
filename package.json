@@ -1,6 +1,6 @@
 {
   "name": "hexo-blogroll",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Dynamic blogroll",
   "main": "index.js",
   "repository": {
